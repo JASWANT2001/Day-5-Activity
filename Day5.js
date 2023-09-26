@@ -1,4 +1,3 @@
-
     "basics": {
       "name": "JASWANT K",
     
@@ -12,4 +11,4 @@
       "location": {
         "address": "5B/1 Subbaya Layout",
         "postalCode": "641045",
-        "city": "Coimbatore"} }
+        "city": "Coimbatore"} } 
